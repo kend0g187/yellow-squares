@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h1>Yellow Squares</h1>
+        <h1>Yellow Square</h1>
       </nav>
       <div className='Components'>
         {/* components go here */}
